@@ -16,7 +16,7 @@ I tested this a couple of times just to make sure everything works. Ways to test
 * What are the application use cases? How do I test this application?
 
 ## Self Reflection(s):
-Overall the assignment was difficult for me from the very start. It took me a very long time just to pull up the instructions and to get them to work. Then it was just trying to get the links to work inside the instructions. But after spending way to much time on this I finally got everyhthing to work.
+Overall the assignment was difficult for me from the very start. It took me a very long time just to pull up the instructions and to get them to work. Then it was just trying to get the links to work inside the instructions. But after spending way to much time on this I finally got everyhthing to work. It says one test failed but it's just being very picky about the placement of the folders.
 ## How long it took me/us to finish this:
 A lot longer than I would have liked but in total, I think around 3 days.
 ## Group list, if applicable:
