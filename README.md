@@ -1,11 +1,11 @@
 # Canvas 
 
-Find the instructions and rubric in [INSTRUCTIONS.md](INSTRUCTIONS.md)
+![Assignment Checks](https://s///github.com/Leach-IT3049C/canvas-StevenHatton/workflows/Assignment%20Checks/badge.svg)
 
 ## Checklist:
 
 - [x] All of my code is pushed up into a repository.
-- [x] Fill out the `Use Cases` section
+- [x] update the assignment checks above to the correct link. - Done Automatically
 - [x] Setup GitHub Pages
 - [x] Fill out the self-evaluation form.
 - [x] Submit the repository link and list of group members, if applicable, to Canvas.
