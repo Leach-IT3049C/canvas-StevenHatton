@@ -21,3 +21,4 @@ Overall the assignment was difficult for me from the very start. It took me a ve
 A lot longer than I would have liked but in total, I think around 3 days.
 ## Group list, if applicable:
 Steven Hatton(me)
+Perry McCarthy
